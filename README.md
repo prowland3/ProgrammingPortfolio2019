@@ -1,4 +1,3 @@
-# Welcome to Parker Rowland's Programming Portfolio
 ### 2019
 
 parkrowl9517@granitesd.org
